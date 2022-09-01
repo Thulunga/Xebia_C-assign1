@@ -1,0 +1,8 @@
+C:\Users\tbasumatary\source\repos\xebiaConsoleApp1\xebiaConsoleApp1\bin\Debug\xebiaConsoleApp1.exe.config
+C:\Users\tbasumatary\source\repos\xebiaConsoleApp1\xebiaConsoleApp1\bin\Debug\xebiaConsoleApp1.exe
+C:\Users\tbasumatary\source\repos\xebiaConsoleApp1\xebiaConsoleApp1\bin\Debug\xebiaConsoleApp1.pdb
+C:\Users\tbasumatary\source\repos\xebiaConsoleApp1\xebiaConsoleApp1\obj\Debug\xebiaConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tbasumatary\source\repos\xebiaConsoleApp1\xebiaConsoleApp1\obj\Debug\xebiaConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbasumatary\source\repos\xebiaConsoleApp1\xebiaConsoleApp1\obj\Debug\xebiaConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tbasumatary\source\repos\xebiaConsoleApp1\xebiaConsoleApp1\obj\Debug\xebiaConsoleApp1.exe
+C:\Users\tbasumatary\source\repos\xebiaConsoleApp1\xebiaConsoleApp1\obj\Debug\xebiaConsoleApp1.pdb
