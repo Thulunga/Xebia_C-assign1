@@ -1,10 +1,10 @@
-## C# Assignment  by Thulunga Basumatary
+# C# Assignment  by Thulunga Basumatary
 
-# To run all the question this assignment Rename 
+## To run all the question this assignment Rename 
 
 ## static void Main2() to static void Main() for questions.
 
-# question solved on this assignment are following---
+## question solved on this assignment are following---
 
 
 1. Write a C# Sharp program to print Hello and your name in a separate line. 
@@ -81,7 +81,6 @@ Enter the First number: 10
 Enter the Second number: 15
 Enter the third number: 20
 Enter the four number: 30
-
 Expected Output:
 The average of 10 , 15 , 20 , 30 is: 18
 
@@ -91,6 +90,5 @@ Test Data:
 Enter first number - 5
 Enter second number - 6
 Enter third number - 7
-
 Expected Output:
 Result of specified numbers 5, 6 and 7, (x+y).z is 77 and x.y + y.z is 72
