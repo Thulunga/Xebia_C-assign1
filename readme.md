@@ -1,10 +1,8 @@
 # C# Assignment  by Thulunga Basumatary
 
-## To run all the question this assignment Rename 
+## To run all the question in this assignment Rename static void Main2() to static void Main() for questions.
 
-## static void Main2() to static void Main() for questions.
-
-## question solved on this assignment are following---
+## question solved on this assignment are as follows---
 
 
 1. Write a C# Sharp program to print Hello and your name in a separate line. 
