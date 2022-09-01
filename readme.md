@@ -1,6 +1,6 @@
 # C# Assignment  by Thulunga Basumatary
 
-## To run all the question in this assignment Rename static void Main2() to static void Main() for questions.
+## To run all the question in this assignment Rename static void Main2() to static void Main() for all questions.
 
 ## question solved on this assignment are as follows---
 
